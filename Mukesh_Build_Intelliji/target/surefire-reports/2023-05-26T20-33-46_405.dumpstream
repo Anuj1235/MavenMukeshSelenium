@@ -1,0 +1,4 @@
+# Created at 2023-05-26T20:33:46.959
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Mukesh_JenkinTutorial\Mukesh_Build_Intelliji\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
